@@ -25,7 +25,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=garyjeong&show_icons=true&theme=transparent" alt="Gary's GitHub stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=garyjeong&theme=transparent" alt="Gary's GitHub streak" width="49%" />
+<img src="https://streak-stats.demolab.com?user=garyjeong&theme=transparent" alt="Gary's GitHub streak" width="49%" />
 
 </div>
 
